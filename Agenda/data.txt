@@ -1,0 +1,3 @@
+Bogdan|Coticopol|Bucuresti|0725285241
+George|Zamfir|tot acasa|nu are
+Ion|Tudose|Strada Mladitei, numarul 6, bloc 2, scara B, etaj 4, apartament 52, sector 4, Bucuresti|nu are

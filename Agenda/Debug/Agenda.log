@@ -1,0 +1,27 @@
+﻿Build started 11/05/16 21:38:02.
+     1>Project "C:\Users\bogdancoticopol\Desktop\Agenda\Agenda\Agenda.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Agenda.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\bogdancoticopol\Desktop\Agenda\Debug\Agenda.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Debug\Agenda.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\bogdancoticopol\Desktop\Agenda\Debug\Agenda.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\bogdancoticopol\Desktop\Agenda\Debug\Agenda.lib" /MACHINE:X86 Debug\Resources.res
+         Debug\Contact.obj
+         Debug\ContactList.obj
+         Debug\Main.obj
+     1>Contact.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         Agenda.vcxproj -> C:\Users\bogdancoticopol\Desktop\Agenda\Debug\Agenda.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\bogdancoticopol\Desktop\Agenda\Debug\Agenda.exe;#1" /manifest Debug\Agenda.exe.intermediate.manifest "C:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Agenda.unsuccessfulbuild".
+         Touching "Debug\Agenda.lastbuildstate".
+     1>Done Building Project "C:\Users\bogdancoticopol\Desktop\Agenda\Agenda\Agenda.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.67
